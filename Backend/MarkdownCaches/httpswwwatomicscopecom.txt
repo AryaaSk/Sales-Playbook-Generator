@@ -1,0 +1,78 @@
+## What is Atomic Scope?
+
+Atomic Scope is a functional end to end business activity tracking and monitoring product for Hybrid integration scenarios involving Microsoft BizTalk Server and Azure Logic Apps. With Atomic Scope, get full visibility of your end-to-end business.
+
+Watch Video
+
+![End to End Visibility](https://www.atomicscope.com/wp-content/themes/AtomicScope/images/home-icon-End-to-End-Visibility.png)
+
+### End to End Visibility
+
+In complex integration solutions, multiple micro-services come together to process a business transaction such as a Purchase Order. Atomic Scope brings complete visibility into the transaction processing. You can collect relevant data at each of these stages and attach a rich business context.
+
+![End to End Visibility](https://www.atomicscope.com/wp-content/themes/AtomicScope/images/home-end-to-end-process.png)
+
+![Analytics](https://www.atomicscope.com/wp-content/themes/AtomicScope/images/As-home-analytics.png)
+
+![Analytics](https://www.atomicscope.com/wp-content/themes/AtomicScope/images/home-icon-analytics.png)
+
+### Analytics
+
+Atomic Scope can bring insights into the business data and displays in the form of graphs and charts. The user can create multiple dashboards and can add widgets to each dashboard.
+
+![Configurable Data Collection](https://www.atomicscope.com/wp-content/themes/AtomicScope/images/home-icon-Configurable-Data-Collection.png)
+
+### Configurable Data Collection
+
+Businesses now a day demands agility form IT. Data needed by business users and functional support teams to get visibility into integration solutions evolving constantly. Hence hardcoding the data collection, costs significant development effort when there is need for change. Atomic Scope makes data collection completely configurable there by bringing maximum agility to businesses changing needs.
+
+![Configurable Data Collection](https://www.atomicscope.com/wp-content/themes/AtomicScope/images/home-Configurable-Data-Collection-process.png)
+
+![Correlate Transactions](https://www.atomicscope.com/wp-content/themes/AtomicScope/images/home-Correlate-Transactions-process.png)
+
+![Correlate Transactions](https://www.atomicscope.com/wp-content/themes/AtomicScope/images/home-icon-Correlate-Transactions.png)
+
+### Correlate Transactions
+
+Atomic Scope not only brings end to end view of business transactions but also of the business process as whole by making use of configurable correlation token. This enables functional support team to track the status of a business process at any point of time. For example, with Atomic Scope it is easy to check if the fulfilment is being done for a Purchase order.
+
+![Integrated Business Exceptions](https://www.atomicscope.com/wp-content/themes/AtomicScope/images/home-icon-Integrated-Business-Exceptions.png)
+
+### Integrated Business Exceptions
+
+In any integration solutions, handling Business Exceptions and System exceptions is quite crucial. Also keeping it integrated with the transaction activities is important as well. This helps functional support teams to address the issues proactively and resolve them efficiently. Atomic Scope Exception components help you to integrate Business and System exceptions with Business transactions.
+
+![Integrated Business Exceptions](https://www.atomicscope.com/wp-content/themes/AtomicScope/images/home-Integrated-Business-Exceptions-process.png)
+
+![Alerts](https://www.atomicscope.com/wp-content/themes/AtomicScope/images/home-alerts-process.png)
+
+![Alerts](https://www.atomicscope.com/wp-content/themes/AtomicScope/images/home-icon-Alerts.png)
+
+### Alerts
+
+Atomic Scope allows you to configure alerts for exceptions, SLA breaches and Threshold breaches which make functional support team to be proactive and address the issues more efficiently. The exception alerts are triggered as soon as the exceptions are logged using Atomic Scope exception components.
+
+![Reprocessing Transactions](https://www.atomicscope.com/wp-content/themes/AtomicScope/images/home-icon-Reprocessing-Transactions.png)
+
+### Reprocessing Transactions
+
+Edit the failed transactions and reprocess them into different service end points. This helps functional support to address the issues sooner. Without reprocessing capability, one would have to request the source application to resend the message which can take anywhere between hours to days.
+
+![Reprocessing Transactions](https://www.atomicscope.com/wp-content/themes/AtomicScope/images/home-Reprocessing-Transactions-process.png)
+
+![Security](https://www.atomicscope.com/wp-content/themes/AtomicScope/images/home-security-process.png)
+
+![Security](https://www.atomicscope.com/wp-content/themes/AtomicScope/images/home-icon-Security.png)
+
+### Security
+
+Atomic Scope brings great control over who can access which business process. This helps organisations to be compliant with security regulations specially when functional support teams are dealing with business sensitive data.
+
+- powerful exception management
+- failed transaction With Atomic Scope
+
+## Discover how Atomic Scope can help your Business
+
+15 days trial. Simple and Easy Setup.
+
+[START FREE TRIAL](https://www.atomicscope.com/free-trial/)

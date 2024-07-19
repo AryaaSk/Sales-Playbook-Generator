@@ -1,0 +1,49 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glyphic AI Sales Playbook Generator</title>
+
+    <script src="/.JS/openAIAPI.js"></script>
+    <script src="/.JS/backend.js"></script>
+    <script src="/.JS/script.js" defer></script>
+
+    <link rel="stylesheet" href="template.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+        <h1>Glyphic AI Sales Playbook Generator</h1>
+
+        <div id="inputWrapper">
+            <input type="text" id="clientURLTextfield" placeholder="Client's Website URL">
+            <input type="button" id="generatePlaybook" value="Generate Playbook">
+        </div>
+
+        <div id="playbook">
+           <!-- Will 'paste' HTML provided by backend API here-->
+        </div>
+
+        <br>
+
+        <div id="conversation">
+            <!--
+            <div class="bubble question">
+                Here is a sample question
+            </div>
+            <br>
+
+            <div class="bubble response">
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi quidem quas quisquam quibusdam tempore fugit minus assumenda, placeat rem vitae porro enim cum molestias libero? Iure at dolorum neque obcaecati.
+            </div>
+            <br>
+            -->
+        </div>
+
+        <div class="loader" id="loader"></div>
+        
+        <div>
+            <input type="text" style="width: 100%;" id="promptField" placeholder="Any questions...">
+        </div>
+</body>
+</html>

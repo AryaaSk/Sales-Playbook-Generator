@@ -1,0 +1,145 @@
+## Atlas Stream Processing. Unify data in motion and at rest.
+
+Transform building event-driven applications by continuously processing streams of data with a familiar developer experience.
+
+##### Atlas Stream Processing Explained in 3 minutes
+
+Learn how Atlas Stream Processing combines the document model, flexible schemas, and the rich aggregation framework to provide power and convenience when building applications that require processing complex event data at scale.[Watch video](https://www.mongodb.com/library/stream-processing/atlas-stream-processing-explained-three-minutes?lb-mode=overlay)
+
+### Stream processing like never before
+
+When working with streaming data, schema management is critical to data correctness and developer productivity. MongoDB’s document model and aggregation framework give developers powerful capabilities and productivity gains you won't find elsewhere in stream processing.
+
+### Process and manage all your data on one platform
+
+For the first time, developers can use one platform — across API, query language, and data model — to continuously process streaming data alongside the critical application data stored in their database.
+
+### Fully managed in Atlas
+
+Atlas Stream Processing builds on our robust and integrated developer data platform. With just a few API calls and lines of code, a developer can stand up a stream processor, database, and API serving layer — all fully managed on Atlas.
+
+## Atlas Stream Processing
+
+How does it unify the experience of working with data in motion and data at rest?
+
+![Atlas Stream Processing diagram](https://webimages.mongodb.com/_com_assets/cms/lv2i13iehirclm6fl-A-unified-experience-for-working-with-all-data.svg?auto=format%252Ccompress)
+
+##### Capabilities
+
+CONTINUOUS INSIGHTS
+
+##### "At Acoustic, our key focus is to empower brands with behavioral insights that enable them to create engaging, personalized customer experiences. With Atlas Stream Processing, our engineers can leverage the skills they already have from working with data in Atlas to process new data continuously, ensuring our customers have access to real-time customer insights."
+
+John Riewerts
+
+EVP of Engineering, Acoustic
+
+![](https://webimages.mongodb.com/_com_assets/cms/lrzaiyjryb6q762w8-quote-logo-Acoustic.svg?auto=format%252Ccompress)
+
+EVENT-DRIVEN APPS
+
+##### "Atlas Stream Processing enables us to process, validate, and transform data before sending it to our messaging architecture in AWS powering event-driven updates throughout our platform. The reliability and performance of Atlas Stream Processing have increased our productivity, improved developer experience, and reduced infrastructure costs."
+
+Cody Perry
+
+Software Engineer, Meltwater
+
+![](https://webimages.mongodb.com/_com_assets/cms/lv6mydfzi9wnuozze-Meltwater-logo-white.svg?auto=format%252Ccompress)
+
+## Native stream processing in MongoDB Atlas
+
+Use Atlas Stream Processing to easily process and validate complex event data, merging it for use exactly where you need it.
+
+[View Documentation](https://www.mongodb.com/docs/atlas/atlas-sp/overview/)
+
+###### Querying Apache Kafka data streams
+
+Atlas Stream Processing makes querying data from Apache Kafka as easy as it is to query MongoDB. Just define a source, the desired aggregation stages, and a sink to quickly process your Apache Kafka data streams.
+
+###### Advanced analytics with windowing functions
+
+Window operators in Atlas Stream Processing allow you to analyze and process specific, fixed-sized windows of data within a continuous data stream, making it easy to discover patterns and trends.
+
+###### Schema validation of complex events
+
+Continuous validation is essential to ensure events are properly formed before processing to detect message corruption and whether late arriving data has missed a processing window.
+
+###### Querying Apache Kafka data streams
+
+Atlas Stream Processing makes querying data from Apache Kafka as easy as it is to query MongoDB. Just define a source, the desired aggregation stages, and a sink to quickly process your Apache Kafka data streams.
+
+###### Advanced analytics with windowing functions
+
+Window operators in Atlas Stream Processing allow you to analyze and process specific, fixed-sized windows of data within a continuous data stream, making it easy to discover patterns and trends.
+
+###### Schema validation of complex events
+
+Continuous validation is essential to ensure events are properly formed before processing to detect message corruption and whether late arriving data has missed a processing window.
+
+## Get the most out of Atlas
+
+Power more data-driven experiences and insights with the rest of our developer data platform.
+
+## FAQ
+
+Want to learn more about stream processing?
+
+###### What is streaming data?
+
+![](https://webimages.mongodb.com/_com_assets/cms/kx0wvr3ntqon8c7tp-minus.svg?auto=format%252Ccompress)
+
+Streaming data is generated continuously from a wide range of sources. IoT sensors, microservices, and mobile devices are all common sources of high-volume streams of data. The continuous nature of streaming data as well as its immutability make it unique from static data at rest in a database.
+
+###### What is stream processing?
+
+![](https://webimages.mongodb.com/_com_assets/cms/kx0wvn02iwn4zu68z-plus.svg?auto=format%252Ccompress)
+
+Stream processing is continuously ingesting and transforming event data from an event messaging platform (like Apache Kafka) to perform various functions. This could mean creating simple filters to remove unneeded data, performing aggregations to count or sum data as needed, creating stateful windows, and more. Stream processing can be a differentiating characteristic in event-driven applications, allowing for more reactive, responsive customer experiences.
+
+###### How is event streaming different from stream processing?
+
+![](https://webimages.mongodb.com/_com_assets/cms/kx0wvn02iwn4zu68z-plus.svg?auto=format%252Ccompress)
+
+Streaming data lives inside of event streaming platforms (like Apache Kafka), and these systems are essentially an immutable distributed log. Event data is published and consumed from event streaming platforms using APIs.
+
+Developers need to use a stream processor to perform more advanced processing, such as stateful aggregations, window operations, mutations, and creating materialized views. These are similar to the operations one does when running queries on a database, except that stream processing continuously queries an endless stream of data. This area of streaming is more nascent; however, technologies such as Apache Flink and Spark Streaming are quickly gaining traction.
+
+With Atlas Stream Processing, MongoDB provides developers with a better way to process streams for use in their applications, leveraging the aggregation framework.
+
+###### Why did MongoDB build Atlas Stream Processing?
+
+![](https://webimages.mongodb.com/_com_assets/cms/kx0wvn02iwn4zu68z-plus.svg?auto=format%252Ccompress)
+
+Stream processing is an increasingly critical component for building responsive, event-driven applications. By adding stream processing functionality as a native capability in Atlas, we're helping more developers build innovative applications leveraging our multi-cloud developer data platform, MongoDB Atlas.
+
+###### How can I get started with Atlas Stream Processing?
+
+![](https://webimages.mongodb.com/_com_assets/cms/kx0wvn02iwn4zu68z-plus.svg?auto=format%252Ccompress)
+
+Atlas Stream Processing is now available to all Atlas users. Simply log in and click on the Stream Processing tab to get started.
+
+###### How is stream processing different from batch processing?
+
+![](https://webimages.mongodb.com/_com_assets/cms/kx0wvn02iwn4zu68z-plus.svg?auto=format%252Ccompress)
+
+Stream processing happens continuously. In the context of building event-driven applications, stream processing enables reactive and compelling experiences like real-time notifications, personalization, route planning, or predictive maintenance.
+
+Batch processing does not work on continuously produced data. Instead, batch processing works by gathering data over a specified period of time and then processing that static data as needed. An example of batch processing is a retail business collecting sales at the close of business each day for reporting purposes and/or updating inventory levels.
+
+###### Is there a cost associated with Atlas Stream Processing?
+
+![](https://webimages.mongodb.com/_com_assets/cms/kx0wvn02iwn4zu68z-plus.svg?auto=format%252Ccompress)
+
+Yes, there is a cost associated with using Atlas Stream Processing. Details can be found in [our documentation](https://www.mongodb.com/docs/atlas/billing/stream-processing-costs/).
+
+###### What’s the difference between a stream processing pipeline and an aggregation pipeline?
+
+![](https://webimages.mongodb.com/_com_assets/cms/kx0wvn02iwn4zu68z-plus.svg?auto=format%252Ccompress)
+
+Atlas Stream Processing extends the aggregation pipeline with stages for processing continuous data streams. These stages combine with existing aggregation stages built into the default mongod process, enabling you to perform many of the same operations on continuous data as you can perform on data at rest.
+
+[Learn more](https://www.mongodb.com/docs/atlas/atlas-sp/stream-aggregation/)
+
+### Ready to get started
+
+Check out [our tutorial](https://www.mongodb.com/docs/atlas/atlas-stream-processing/tutorial/?tck=sp_web) to see how you can quickly create a stream processor for continuously processing your data today.

@@ -1,0 +1,93 @@
+|     |     |     |
+| --- | --- | --- |
+| 1. |  | [Crowdstrike Update: Windows Bluescreen and Boot Loops](https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/) ( [reddit.com](https://news.ycombinator.com/from?site=reddit.com)) |
+|  | 2678 points by [BLKNSLVR](https://news.ycombinator.com/user?id=BLKNSLVR) [11 hours ago](https://news.ycombinator.com/item?id=41002195) \| [hide](https://news.ycombinator.com/hide?id=41002195&goto=news) \| [2061 comments](https://news.ycombinator.com/item?id=41002195) |
+
+| 2. |  | [FCC votes to limit prison telecom charges](https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms) ( [worthrises.org](https://news.ycombinator.com/from?site=worthrises.org)) |
+|  | 503 points by [Avshalom](https://news.ycombinator.com/user?id=Avshalom) [4 hours ago](https://news.ycombinator.com/item?id=41005181) \| [hide](https://news.ycombinator.com/hide?id=41005181&goto=news) \| [171 comments](https://news.ycombinator.com/item?id=41005181) |
+
+| 3. |  | [Show HN: Sendune – open-source HTML email designer](https://news.ycombinator.com/item?id=41007403) |
+|  | 56 points by [samdung](https://news.ycombinator.com/user?id=samdung) [1 hour ago](https://news.ycombinator.com/item?id=41007403) \| [hide](https://news.ycombinator.com/hide?id=41007403&goto=news) \| [18 comments](https://news.ycombinator.com/item?id=41007403) |
+
+| 4. |  | [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/) ( [johnfactotum.github.io](https://news.ycombinator.com/from?site=johnfactotum.github.io)) |
+|  | 387 points by [ingve](https://news.ycombinator.com/user?id=ingve) [10 hours ago](https://news.ycombinator.com/item?id=41002273) \| [hide](https://news.ycombinator.com/hide?id=41002273&goto=news) \| [95 comments](https://news.ycombinator.com/item?id=41002273) |
+
+| 5. |  | [It's not just CrowdStrike – the cyber sector is vulnerable](https://www.ft.com/content/d2f529fe-3050-4ef5-a8c7-6487d533e57a) ( [ft.com](https://news.ycombinator.com/from?site=ft.com)) |
+|  | 19 points by [jmsflknr](https://news.ycombinator.com/user?id=jmsflknr) [23 minutes ago](https://news.ycombinator.com/item?id=41007843) \| [hide](https://news.ycombinator.com/hide?id=41007843&goto=news) \| [4 comments](https://news.ycombinator.com/item?id=41007843) |
+
+| 6. |  | [CrowdStrike fixes start at "reboot up to 15 times", get more complex from there](https://arstechnica.com/information-technology/2024/07/crowdstrike-fixes-start-at-reboot-up-to-15-times-and-get-more-complex-from-there/) ( [arstechnica.com](https://news.ycombinator.com/from?site=arstechnica.com)) |
+|  | 15 points by [thunderbong](https://news.ycombinator.com/user?id=thunderbong) [19 minutes ago](https://news.ycombinator.com/item?id=41007898) \| [hide](https://news.ycombinator.com/hide?id=41007898&goto=news) \| [2 comments](https://news.ycombinator.com/item?id=41007898) |
+
+| 7. |  | [NASA's Curiosity rover discovers a surprise in a Martian rock](https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock) ( [nasa.gov](https://news.ycombinator.com/from?site=nasa.gov)) |
+|  | 69 points by [Ozarkian](https://news.ycombinator.com/user?id=Ozarkian) [2 hours ago](https://news.ycombinator.com/item?id=41006552) \| [hide](https://news.ycombinator.com/hide?id=41006552&goto=news) \| [32 comments](https://news.ycombinator.com/item?id=41006552) |
+
+| 8. |  | [Want to spot a deepfake? Look for the stars in their eyes](https://ras.ac.uk/news-and-press/news/want-spot-deepfake-look-stars-their-eyes) ( [ras.ac.uk](https://news.ycombinator.com/from?site=ras.ac.uk)) |
+|  | 99 points by [jonbaer](https://news.ycombinator.com/user?id=jonbaer) [5 hours ago](https://news.ycombinator.com/item?id=40995955) \| [hide](https://news.ycombinator.com/hide?id=40995955&goto=news) \| [63 comments](https://news.ycombinator.com/item?id=40995955) |
+
+| 9. |  | [Instrumenting Python GIL with eBPF](https://coroot.com/blog/instrumenting-python-gil-with-ebpf) ( [coroot.com](https://news.ycombinator.com/from?site=coroot.com)) |
+|  | 5 points by [lukastyrychtr](https://news.ycombinator.com/user?id=lukastyrychtr) [1 hour ago](https://news.ycombinator.com/item?id=41006946) \| [hide](https://news.ycombinator.com/hide?id=41006946&goto=news) \| [discuss](https://news.ycombinator.com/item?id=41006946) |
+
+| 10. |  | [10-acre underground home and gardens in Fresno (2023) \[video\]](https://www.youtube.com/watch?v=mUKRPoQKynk) ( [youtube.com](https://news.ycombinator.com/from?site=youtube.com)) |
+|  | 32 points by [8bitsrule](https://news.ycombinator.com/user?id=8bitsrule) [5 hours ago](https://news.ycombinator.com/item?id=40978820) \| [hide](https://news.ycombinator.com/hide?id=40978820&goto=news) \| [6 comments](https://news.ycombinator.com/item?id=40978820) |
+
+| 11. |  | [Type in Morse code by repeatedly slamming your laptop shut](https://github.com/veggiedefender/open-and-shut) ( [github.com/veggiedefender](https://news.ycombinator.com/from?site=github.com/veggiedefender)) |
+|  | 666 points by [OuterVale](https://news.ycombinator.com/user?id=OuterVale) [23 hours ago](https://news.ycombinator.com/item?id=40968922) \| [hide](https://news.ycombinator.com/hide?id=40968922&goto=news) \| [142 comments](https://news.ycombinator.com/item?id=40968922) |
+
+| 12. |  | [Radxa X4 low-cost, credit card-sized Intel N100 SBC goes for $60 and up](https://www.cnx-software.com/2024/07/19/radxa-x4-low-cost-credit-card-sized-intel-n100-sbc-raspberry-pi-5-alternative/) ( [cnx-software.com](https://news.ycombinator.com/from?site=cnx-software.com)) |
+|  | 21 points by [todsacerdoti](https://news.ycombinator.com/user?id=todsacerdoti) [1 hour ago](https://news.ycombinator.com/item?id=41007348) \| [hide](https://news.ycombinator.com/hide?id=41007348&goto=news) \| [12 comments](https://news.ycombinator.com/item?id=41007348) |
+
+| 13. |  | [Deletion of Il11 extended the lives of mice by 25%](https://www.nature.com/articles/s41586-024-07701-9) ( [nature.com](https://news.ycombinator.com/from?site=nature.com)) |
+|  | 5 points by [Nazzareno](https://news.ycombinator.com/user?id=Nazzareno) [24 minutes ago](https://news.ycombinator.com/item?id=41007828) \| [hide](https://news.ycombinator.com/hide?id=41007828&goto=news) \| [1 comment](https://news.ycombinator.com/item?id=41007828) |
+
+| 14. |  | [Devzat – Chat over SSH, with some nice quality-of-life features](https://github.com/quackduck/devzat) ( [github.com/quackduck](https://news.ycombinator.com/from?site=github.com/quackduck)) |
+|  | 377 points by [humanperhaps](https://news.ycombinator.com/user?id=humanperhaps) [22 hours ago](https://news.ycombinator.com/item?id=40998158) \| [hide](https://news.ycombinator.com/hide?id=40998158&goto=news) \| [88 comments](https://news.ycombinator.com/item?id=40998158) |
+
+| 15. |  | [Debugging an evil Go runtime bug: From heat guns to kernel compiler flags](https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/) ( [marcan.st](https://news.ycombinator.com/from?site=marcan.st)) |
+|  | 8 points by [goranmoomin](https://news.ycombinator.com/user?id=goranmoomin) [3 hours ago](https://news.ycombinator.com/item?id=41006308) \| [hide](https://news.ycombinator.com/hide?id=41006308&goto=news) \| [1 comment](https://news.ycombinator.com/item?id=41006308) |
+
+| 16. |  | [Double trouble: ESA's Gaia hit by micrometeoroid and solar storm](https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm) ( [esa.int](https://news.ycombinator.com/from?site=esa.int)) |
+|  | 121 points by [gnabgib](https://news.ycombinator.com/user?id=gnabgib) [18 hours ago](https://news.ycombinator.com/item?id=40999928) \| [hide](https://news.ycombinator.com/hide?id=40999928&goto=news) \| [12 comments](https://news.ycombinator.com/item?id=40999928) |
+
+| 17. |  | [Deutsche Telekom issued invalid certificates, hasn't revoked them since 6 months](https://bugzilla.mozilla.org/show_bug.cgi?id=1877388) ( [bugzilla.mozilla.org](https://news.ycombinator.com/from?site=bugzilla.mozilla.org)) |
+|  | 26 points by [MaKey](https://news.ycombinator.com/user?id=MaKey) [1 hour ago](https://news.ycombinator.com/item?id=41007113) \| [hide](https://news.ycombinator.com/hide?id=41007113&goto=news) \| [3 comments](https://news.ycombinator.com/item?id=41007113) |
+
+| 18. |  | [Visual programming should start in the debugger](https://interjectedfuture.com/visual-programming-should-start-in-the-debugger/) ( [interjectedfuture.com](https://news.ycombinator.com/from?site=interjectedfuture.com)) |
+|  | 8 points by [iamwil](https://news.ycombinator.com/user?id=iamwil) [3 hours ago](https://news.ycombinator.com/item?id=40968215) \| [hide](https://news.ycombinator.com/hide?id=40968215&goto=news) \| [discuss](https://news.ycombinator.com/item?id=40968215) |
+
+| 19. |  | [SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/abs/2407.09025) ( [arxiv.org](https://news.ycombinator.com/from?site=arxiv.org)) |
+|  | 142 points by [goplayoutside](https://news.ycombinator.com/user?id=goplayoutside) [16 hours ago](https://news.ycombinator.com/item?id=40985017) \| [hide](https://news.ycombinator.com/hide?id=40985017&goto=news) \| [66 comments](https://news.ycombinator.com/item?id=40985017) |
+
+| 20. |  | [End Poem by Julian Gough](https://www.theendpoem.com/) ( [theendpoem.com](https://news.ycombinator.com/from?site=theendpoem.com)) |
+|  | 37 points by [Tomte](https://news.ycombinator.com/user?id=Tomte) [8 hours ago](https://news.ycombinator.com/item?id=41003055) \| [hide](https://news.ycombinator.com/hide?id=41003055&goto=news) \| [14 comments](https://news.ycombinator.com/item?id=41003055) |
+
+| 21. |  | [Professional poker players know the optimal strategy but don't always use it](https://www.scientificamerican.com/article/the-nash-equilibrium-is-the-optimal-poker-strategy-expert-players-dont-always-use-it/) ( [scientificamerican.com](https://news.ycombinator.com/from?site=scientificamerican.com)) |
+|  | 72 points by [alexahn](https://news.ycombinator.com/user?id=alexahn) [13 hours ago](https://news.ycombinator.com/item?id=41001780) \| [hide](https://news.ycombinator.com/hide?id=41001780&goto=news) \| [43 comments](https://news.ycombinator.com/item?id=41001780) |
+
+| 22. | ![](https://news.ycombinator.com/s.gif) | [Rollstack (YC W23) Is Hiring Exceptional TypeScript Engineers](https://www.ycombinator.com/companies/rollstack-2/jobs) ( [ycombinator.com](https://news.ycombinator.com/from?site=ycombinator.com)) |
+|  | [15 hours ago](https://news.ycombinator.com/item?id=41001209) \| [hide](https://news.ycombinator.com/hide?id=41001209&goto=news) |
+
+| 23. |  | [Polychromatic Pixels](https://compoundsemiconductor.net/article/119170/Polychromatic_pixels) ( [compoundsemiconductor.net](https://news.ycombinator.com/from?site=compoundsemiconductor.net)) |
+|  | 181 points by [bluehat974](https://news.ycombinator.com/user?id=bluehat974) [1 day ago](https://news.ycombinator.com/item?id=40997087) \| [hide](https://news.ycombinator.com/hide?id=40997087&goto=news) \| [119 comments](https://news.ycombinator.com/item?id=40997087) |
+
+| 24. |  | [Hash-based bisect debugging in compilers and runtimes](https://research.swtch.com/bisect) ( [swtch.com](https://news.ycombinator.com/from?site=swtch.com)) |
+|  | 217 points by [rsc](https://news.ycombinator.com/user?id=rsc) [1 day ago](https://news.ycombinator.com/item?id=40995982) \| [hide](https://news.ycombinator.com/hide?id=40995982&goto=news) \| [34 comments](https://news.ycombinator.com/item?id=40995982) |
+
+| 25. |  | [Elephants use namelike calls](https://www.theatlantic.com/science/archive/2024/07/animal-naming-elephant-consciousness-language/679075/) ( [theatlantic.com](https://news.ycombinator.com/from?site=theatlantic.com)) |
+|  | 58 points by [peutetre](https://news.ycombinator.com/user?id=peutetre) [16 hours ago](https://news.ycombinator.com/item?id=41000846) \| [hide](https://news.ycombinator.com/hide?id=41000846&goto=news) \| [56 comments](https://news.ycombinator.com/item?id=41000846) |
+
+| 26. |  | [Show HN: NetSour, CLI Based Wireshark](https://github.com/thegoodduck/NetSour) ( [github.com/thegoodduck](https://news.ycombinator.com/from?site=github.com/thegoodduck)) |
+|  | 37 points by [thegoodduck](https://news.ycombinator.com/user?id=thegoodduck) [14 hours ago](https://news.ycombinator.com/item?id=41001559) \| [hide](https://news.ycombinator.com/hide?id=41001559&goto=news) \| [11 comments](https://news.ycombinator.com/item?id=41001559) |
+
+| 27. |  | [Transcribro: On-device Accurate Speech-to-text](https://github.com/soupslurpr/Transcribro) ( [github.com/soupslurpr](https://news.ycombinator.com/from?site=github.com/soupslurpr)) |
+|  | 133 points by [thebiblelover7](https://news.ycombinator.com/user?id=thebiblelover7) [23 hours ago](https://news.ycombinator.com/item?id=40997850) \| [hide](https://news.ycombinator.com/hide?id=40997850&goto=news) \| [50 comments](https://news.ycombinator.com/item?id=40997850) |
+
+| 28. |  | [Mining Pool Game Theory During Forks](https://b10c.me/blog/014-mining-pool-game-theory-during-forks/) ( [b10c.me](https://news.ycombinator.com/from?site=b10c.me)) |
+|  | 19 points by [b10c](https://news.ycombinator.com/user?id=b10c) [10 hours ago](https://news.ycombinator.com/item?id=40968680) \| [hide](https://news.ycombinator.com/hide?id=40968680&goto=news) \| [1 comment](https://news.ycombinator.com/item?id=40968680) |
+
+| 29. |  | [3D visualization brings nuclear fusion to life](https://actu.epfl.ch/news/3d-visualization-brings-nuclear-fusion-to-life/) ( [epfl.ch](https://news.ycombinator.com/from?site=epfl.ch)) |
+|  | 20 points by [rntn](https://news.ycombinator.com/user?id=rntn) [4 hours ago](https://news.ycombinator.com/item?id=41005497) \| [hide](https://news.ycombinator.com/hide?id=41005497&goto=news) \| [5 comments](https://news.ycombinator.com/item?id=41005497) |
+
+| 30. |  | [Show HN: How we leapfrogged traditional vector based RAG with a 'language map'](https://twitter.com/mutableai/status/1813815706783490055) ( [twitter.com/mutableai](https://news.ycombinator.com/from?site=twitter.com/mutableai)) |
+|  | 106 points by [oshams](https://news.ycombinator.com/user?id=oshams) [21 hours ago](https://news.ycombinator.com/item?id=40998497) \| [hide](https://news.ycombinator.com/hide?id=40998497&goto=news) \| [34 comments](https://news.ycombinator.com/item?id=40998497) |
+
+|  | [More](https://news.ycombinator.com/?p=2) |

@@ -1,0 +1,248 @@
+## AI-powered knowledge base for customers and teams
+
+Self-service platform to build, share and manage knowledge base, product documentation, manuals, SOPs, and Wikis.
+
+![Document360](https://document360.com/wp-content/themes/document360/images/slider-site.webp)
+
+![Document360](https://document360.com/wp-content/themes/document360/images/slider-editor.webp)
+
+MEET DOCUMENT360
+
+## Take a quick tour!
+
+## Everything you need, in one place
+
+Features that matter the most to improve your overall article publishing and consumption experience.
+
+
+### Knowledge Base Portal
+
+For Editors, Writers, and Reviewers
+
+An advanced portal for content producers, with the state-of-the-art editor, category
+manager, analytics and more.
+
+[Learn more](https://document360.com/knowledgebase-portal/)
+
+![Knowledge Base Site](https://document360.com/wp-content/themes/document360/images/features/knowledgebase-portal.svg?ver=2)
+
+### Knowledge Base Site
+
+For Customers and Employees
+
+Brand, style and create a public or private knowledge base with a custom home page and
+domain.
+
+[Learn more](https://document360.com/knowledgebase-site/)
+
+![Knowledge Base Site](https://document360.com/wp-content/themes/document360/images/features/knowledgebase-site.svg?ver=2)
+
+### Widget
+
+For your websites and applications
+
+An embeddable widget that connects your product or website to your knowledge base so
+users can get answers instantly.
+
+[Learn more](https://document360.com/knowledgebase-widget/)
+
+![Widget](https://document360.com/wp-content/themes/document360/images/features/kb-assistant.svg?ver=2)
+
+### API Documentation
+
+Developer Tools
+
+Create customizable API documentation automatically for customers & developers at scale.
+
+
+[Learn more](https://document360.com/api-documentation/)
+
+![API Documentation](https://document360.com/wp-content/themes/document360/images/features/transform-your-API-experience.svg?ver=2)
+
+HOW DOCUMENT360 HELPS
+
+## Providing endless possibilities
+
+Document360 revolutionizes the way you create and manage documentation. Our user-friendly interface,
+bundled with powerful features, streamlines the entire documentation process, making it effortless
+and efficient.
+
+### Technical Writers
+
+#### Technical documentation
+
+Build technical documentation for your application, product, or system. Describe
+it detail about its features, service, requirement and more.
+
+![Technical documentation](https://document360.com/wp-content/themes/document360/images/home/technical-documentation.svg?ver=1)
+
+#### User manuals
+
+Create user manuals and guides for users to provide comprehensive instructions on
+how to use a product or avail your service.
+
+![User manuals](https://document360.com/wp-content/themes/document360/images/home/user-manuals.svg?ver=1)
+
+#### Tutorials
+
+Prepare step-by-step tutorials to provide seamless onboarding experience and
+improve product adoption over time.
+
+![Tutorials](https://document360.com/wp-content/themes/document360/images/home/tutorials.svg?ver=1)
+
+#### Release notes
+
+Keep you users informed about the latest product updates, bug fixes, and new
+features by publishing release notes.
+
+![Release notes](https://document360.com/wp-content/themes/document360/images/home/release-note.svg?ver=1)
+
+### Product Owners
+
+#### Product strategy and vision
+
+Document the overall vision, goals, and strategy for your product to align well
+with other stake holders.
+
+![Product strategy and vision](https://document360.com/wp-content/themes/document360/images/features/allfeatures-private-documentation.svg?ver=1)
+
+#### Product documentation
+
+Define detailed functional and non-functional requirements for your product.
+
+![Product documentation](https://document360.com/wp-content/themes/document360/images/home/product-docs.svg?ver=1)
+
+#### Competitive analysis
+
+Comprehensive assessment of the strengths and weaknesses of competing product or
+service in the market.
+
+![Competitive analysis](https://document360.com/wp-content/themes/document360/images/home/competetive-analysis.svg?ver=1)
+
+#### Market research
+
+Define user personas, target users or customer segments. Document insights about
+customer needs, preferences, and market trends.
+
+![Market research](https://document360.com/wp-content/themes/document360/images/home/market-research.svg?ver=1)
+
+### Customer Support Teams
+
+#### FAQs
+
+Provide quicker resolution by preparing answer to frequently asked questions by
+your customers.
+
+![faq](https://document360.com/wp-content/themes/document360/images/home/faq.svg?ver=1)
+
+#### Troubleshooting guides
+
+Help customers to identify and resolve issues by preparing detailed step by step
+troubleshooting guides.
+
+![Troubleshooting guides](https://document360.com/wp-content/themes/document360/images/home/troubleshooting-guides.svg?ver=1)
+
+#### Support knowledge base
+
+Improve agent productivity by defining the recommended responses and actions for
+specific customer queries.
+
+![Support knowledge base](https://document360.com/wp-content/themes/document360/images/home/support-knowledge-base.svg?ver=1)
+
+#### Onboarding documentation
+
+Guide new customers through your services, ensuring a seamless introduction and
+understanding of how to maximize value.
+
+![Onboarding documentation](https://document360.com/wp-content/themes/document360/images/home/onboarding-document.svg?ver=1)
+
+### Developers
+
+#### API documentation
+
+Describe the endpoints, methods, parameters, and responses of the application
+programming interfaces (APIs) you develop.
+
+![API documentation](https://document360.com/wp-content/themes/document360/images/home/api-docs.svg?ver=1)
+
+#### System documentation
+
+Specify system requirements, dependencies, and setup instructions for deploying
+and running a software.
+
+![System documentation](https://document360.com/wp-content/themes/document360/images/home/system-docs.svg?ver=1)
+
+#### Specification documents
+
+Prepare detailed specification of a project or product, for development and
+common understanding among stakeholders.
+
+![Specification documents](https://document360.com/wp-content/themes/document360/images/home/specification-document.svg?ver=1)
+
+#### Quality assurance documentation
+
+Outline procedures that ensure consistent quality across processes, products, or
+services to deliver the best outcomes.
+
+![Quality assurance documentation](https://document360.com/wp-content/themes/document360/images/home/quality-assurance-documentation.svg?ver=1)
+
+POWERFUL WAYS TO GROW
+
+## Documentation made effortless
+
+![](https://document360.com/wp-content/themes/document360/images/workflows.png)
+
+#### Workflows
+
+Design and manage your documentation workflow process.
+
+![](https://document360.com/wp-content/themes/document360/images/business-glossary.png)
+
+#### Business Glossary
+
+Create a single source of truth for all your business terms.
+
+![](https://document360.com/wp-content/themes/document360/images/feedback-manager.png)
+
+#### Feedback Manager
+
+Keep track of all your feedback across all your articles and categories.
+
+Third-party
+
+## Connect with your business tools
+
+Help your customers with a fully functional knowledge base that they can use to solve problems. With Document360, make it easy for your customers to learn how to use your product.
+
+24/7
+
+Migration assistance
+
+#### Migrate your existing documents with ease
+
+[Learn more](https://document360.com/migration-request/)
+
+Panaya + Document360
+
+The documentation is more visually understandable because of the way Document360 breaks it into individual pages.
+
+![Integrate with the tools you love](https://document360.com/wp-content/themes/document360/images/home/customer-panaya.jpg)[Panaya + Document360](https://www.youtube.com/watch?v=N2MWQA-1RmI) 3min watch
+
+Fastmag + Document360
+
+Document360 gives you a well-rounded view of what's happening with all facets of your content.
+
+![Integrate with the tools you love](https://document360.com/wp-content/themes/document360/images/home/customer-fastmag.jpg)[Fastmag + Document360](https://www.youtube.com/watch?v=QiZiF06LNb4) 3min watch
+
+## Trusted by thousands of users in over 100+ countries
+
+![Simple & transparent pricing for all sizes](https://document360.com/wp-content/themes/document360/images/img-bottom-cta.svg?ver=1)
+
+Pricing
+
+## Simple & transparent pricing for all sizes
+
+Get started from $0.
+
+
+[Explore all plans](https://document360.com/pricing/)

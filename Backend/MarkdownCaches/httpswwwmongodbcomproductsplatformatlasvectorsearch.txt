@@ -1,0 +1,83 @@
+## What is Atlas Vector Search?
+
+Integrate your operational database and vector search in a single, unified, fully managed platform with full vector database capabilities. Store your operational data, metadata, and vector embeddings on Atlas while using Atlas Vector Search to build intelligent gen AI-powered applications.
+
+## Featured integrations
+
+## Key use cases for Atlas Vector Search
+
+Atlas Vector Search lets you search unstructured data. You can create vector embeddings with machine learning models like OpenAI and Hugging Face, and store and index them in Atlas for retrieval augmented generation (RAG), semantic search, recommendation engines, dynamic personalization, and other use cases.
+
+## Vector Search simplified
+
+With Atlas Vector Search, developers can build AI-powered experiences while accessing all the data they need through a unified and consistent developer experience in the form of the MongoDB Query API. Our new $vectorSearch aggregation stage makes it even easier for those already using MongoDB.
+
+## Workload isolation for more scalability and availability
+
+Set up dedicated infrastructure for Atlas Search and Vector Search workloads. Optimize compute resources to scale search and database independently, delivering better performance at scale and higher availability.
+
+## The versatility of Atlas as a vector database
+
+Rather than use a standalone or bolt-on vector database, the versatility of our platform empowers users to store their operational data, metadata, and vector embeddings on Atlas and seamlessly use Atlas Vector Search to index, retrieve, and build performant gen AI applications.
+
+## Avoid the synchronization tax
+
+Store vector embeddings right next to your source data and metadata with the power of the document model. Vector embeddings are integrated with application data and seamlessly indexed for semantic queries, enabling you to build easier and faster.
+
+## Remove operational heavy lifting
+
+Atlas Vector Search is built on the MongoDB Atlas developer data platform. Easily automate provisioning, patching, upgrades, scaling, security, and disaster recovery while providing deep visibility into performance for both the database and Vector Search so you can focus on building applications.
+
+## Robust ecosystem of AI integrations
+
+Atlas Vector Search accelerates your journey to building advanced search and generative AI applications by integrating with a wide variety of top LLMs and frameworks.
+
+## Resources for building AI-powered applications
+
+Discover how to leverage MongoDB to streamline development for the next generation of AI-powered applications.
+
+## FAQ
+
+### What is semantic search?
+
+![Minus Button](https://webimages.mongodb.com/_com_assets/cms/kx0wvr3ntqon8c7tp-minus.svg?auto=format%252Ccompress)
+
+### What is a vector?
+
+![Plus Button](https://webimages.mongodb.com/_com_assets/cms/kx0wvn02iwn4zu68z-plus.svg?auto=format%252Ccompress)
+
+### How does Atlas Vector Search differ from Atlas Search?
+
+![Plus Button](https://webimages.mongodb.com/_com_assets/cms/kx0wvn02iwn4zu68z-plus.svg?auto=format%252Ccompress)
+
+### Can I use MongoDB Atlas instead of a standalone vector database?
+
+![Plus Button](https://webimages.mongodb.com/_com_assets/cms/kx0wvn02iwn4zu68z-plus.svg?auto=format%252Ccompress)
+
+### What's the difference between K-Nearest Neighbor Search and Approximate K-Nearest Neighbor Search? When to use what?
+
+![Plus Button](https://webimages.mongodb.com/_com_assets/cms/kx0wvn02iwn4zu68z-plus.svg?auto=format%252Ccompress)
+
+### What is $vectorSearch and how does it differ from the knnBeta operator in $search?
+
+![Plus Button](https://webimages.mongodb.com/_com_assets/cms/kx0wvn02iwn4zu68z-plus.svg?auto=format%252Ccompress)
+
+### What is ANN?
+
+![Plus Button](https://webimages.mongodb.com/_com_assets/cms/kx0wvn02iwn4zu68z-plus.svg?auto=format%252Ccompress)
+
+### What are Search Nodes?
+
+![Plus Button](https://webimages.mongodb.com/_com_assets/cms/kx0wvn02iwn4zu68z-plus.svg?auto=format%252Ccompress)
+
+### Which Vector embeddings does Atlas Search support?
+
+![Plus Button](https://webimages.mongodb.com/_com_assets/cms/kx0wvn02iwn4zu68z-plus.svg?auto=format%252Ccompress)
+
+### Does Vector Search work with images, media files, and other types of data?
+
+![Plus Button](https://webimages.mongodb.com/_com_assets/cms/kx0wvn02iwn4zu68z-plus.svg?auto=format%252Ccompress)
+
+## Get the most out of Atlas
+
+Power more data-driven experiences and insights with the rest of our developer data platform.

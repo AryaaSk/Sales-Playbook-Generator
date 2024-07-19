@@ -1,0 +1,145 @@
+NEWGet the latest and greatest with MongoDB 6.0 — [Learn more](https://www.mongodb.com/new?tck=mdb_6.0_GA_new_banner)
+
+## Build faster.   Build smarter.​​
+
+Get your ideas to market faster with a developer data platform built on the leading modern database. Support transactional, search, analytics, and mobile use cases while using a common query interface and the data model developers love.
+
+![Illustration of documents and objects powering user interfaces](https://webimages.mongodb.com/_com_assets/cms/kv15ttga69clkiw6z-Homepage_Hero.svg?auto=format%252Ccompress)
+
+TRUSTED BY THOUSANDS OF ORGANIZATIONS INCLUDING
+
+##### MongoDB University
+
+The new learning experience makes picking up knowledge, developing a fundamental MongoDB skill set, and getting certified both quick and easy.[Explore Now](https://learn.mongodb.com/?tck=university_hp_banner)
+
+### Working with data doesn’t   need to be hard
+
+Our guiding principle is to help developers solve their data challenges. Here’s what you can do with MongoDB.
+
+![general_features_build_faster](https://webimages.mongodb.com/_com_assets/icons/general_features_build_faster.svg)
+
+### Build Faster
+
+Ship and iterate 3–5x faster with our flexible document data model and a unified query interface for any use case.
+
+![general_features_scale_bigger](https://webimages.mongodb.com/_com_assets/icons/general_features_scale_bigger.svg)
+
+### Scale Further
+
+Whether it’s your first customer or 20 million users around the world, meet your performance SLAs in any environment.
+
+![general_security](https://webimages.mongodb.com/_com_assets/icons/general_security.svg)
+
+### Sleep Better
+
+Easily ensure high availability, protect data integrity, and meet the security and compliance standards for your mission-critical workloads.
+
+### Fully managed in the cloud
+
+Start in seconds and scale to millions with our cloud services
+
+### Self-managed in any environment
+
+Run MongoDB anywhere, from your laptop to your data center
+
+## Built by developers, for developers
+
+With a document data model that maps to how developers think and code and a powerful, unified query API, MongoDB powers faster, more flexible application development.
+
+[View Documentation](https://docs.mongodb.com/)
+
+###### One platform, many workloads
+
+Transactional, analytical, full-text search, time series, and more
+
+###### Query and analyze data in place
+
+Consistent Query API experience for all operations, with idiomatic language support
+
+###### Deploy, scale, and optimize easily
+
+Run confidently in production with built-in replication, sharding, indexing, performance tools, and more
+
+###### One platform, many workloads
+
+Transactional, analytical, full-text search, time series, and more
+
+Transactions
+
+Search
+
+Time Series
+
+Change Streams / Event Driven
+
+###### Query and analyze data in place
+
+Consistent Query API experience for all operations, with idiomatic language support
+
+CRUD
+
+Aggregation
+
+Language Support
+
+###### Deploy, scale, and optimize easily
+
+Run confidently in production with built-in replication, sharding, indexing, performance tools, and more
+
+Availability
+
+Scalability
+
+Performance
+
+Transactions
+
+Search
+
+Time Series
+
+Change Streams / Event Driven
+
+### Data solutions tailored   for your business
+
+Whether you’re pushing the boundaries of customer experience or building mission-critical applications, MongoDB is the data foundation for any industry
+
+FINANCIAL SERVICES
+
+##### De-risk your modernization journey
+
+Iterative modernization enables financial firms to innovate while modernizing — with immediate gains and less risk.[Learn More](https://www.mongodb.com/collateral/the-5-phases-of-banking-modernization)
+
+SMART FACTORY
+
+##### “For the developers, it is easy, really easy for them to work with quickly. Spending time on building business value, rather than data modeling.”
+
+Filip Dadgar
+
+Principal Solutions Architect and IT Manager, Toyota Material Handling
+
+![](https://webimages.mongodb.com/_com_assets/cms/kv2toxqbrnke4v9e9-tmh.svg?auto=format%252Ccompress)
+
+SCALING FAST
+
+##### “Agile development, multi-disciplinary teams, rapid iteration, and weekly releases have all helped us react seamlessly to changes in demand. MongoDB has been able to cope with that all the way through and gave us the agility and flexibility we so needed.”
+
+Tom Padgham
+
+Deputy Director of Engineering, Department for Work & Pensions
+
+![](https://webimages.mongodb.com/_com_assets/cms/kv9v7wq9imvcce10o-DWP.png?auto=format%252Ccompress)
+
+SCALING
+
+##### “For a long time, your compute layer scaled far more dynamically than your database. With MongoDB Atlas, really for the first time, you can have your data engines scale just as well, just as fast.”
+
+William Fong
+
+CTO and Co-Founder, Boxed
+
+![](https://webimages.mongodb.com/_com_assets/cms/kv2ts0y8wdiyy9xwp-boxed.svg?auto=format%252Ccompress)
+
+### Ready to get started?
+
+Begin building your next app today

@@ -1,0 +1,57 @@
+body {
+    --themeColour: rgb(255, 194, 103);
+}
+
+#inputWrapper {
+    width: 100%;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    place-content: center;
+}
+
+#clientURLTextfield {
+    margin-right: 5px;
+}
+#generatePlaybook {
+    margin-left: 5px;
+}
+
+
+
+.bubble {
+    width: calc(100% - 50px);
+    padding: 10px;
+    border-radius: 6px;
+}
+.question {
+    margin-left: 50px;
+
+    color: black;
+    background-color: var(--themeColour);
+}
+.response {
+    margin-right: 50px;
+
+    background-color: rgba(240, 246, 252, 0.15);
+}
+
+
+
+.loader {
+    width: 50px;
+    height: 50px;
+
+    margin: 0 auto;
+    margin-bottom: 9px;
+
+    border: 9px solid #f3f3f3;
+    border-top: 9px solid var(--themeColour);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+  
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
